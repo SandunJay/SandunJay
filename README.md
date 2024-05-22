@@ -138,15 +138,9 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/SandunJay/SandunJay/blob/output/github-contribution-grid-snake.svg)
-
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/szwvnocsnl2cnav6bhwi0wmao">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=szwvnocsnl2cnav6bhwi0wmao&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=szwvnocsnl2cnav6bhwi0wmao&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=szwvnocsnl2cnav6bhwi0wmao&redirect=true)
 
 ###
 
