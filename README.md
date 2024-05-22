@@ -140,12 +140,9 @@
 
 ###
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=szwvnocsnl2cnav6bhwi0wmao&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=szwvnocsnl2cnav6bhwi0wmao&redirect=true)
-
-###
-
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=sandunjayawardhana" alt="Layout with last medium posts"  />
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=szwvnocsnl2cnav6bhwi0wmao&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=szwvnocsnl2cnav6bhwi0wmao&redirect=true)
 </div>
 
 ###
+
