@@ -1,11 +1,5 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SandunJay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SandunJay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h1 align="center">Hi 👋, I'm Sandun Jayawardhana</h1>
+<h3 align="center">A passionate frontend and backend developer</h3>
 
 ###
 
@@ -121,6 +115,7 @@
   <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vuejs logo"  />
 </div>
 
+
 ###
 
 <div align="left">
@@ -136,6 +131,20 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/SandunJay/SandunJay/blob/output/github-contribution-grid-snake.svg)
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/szwvnocsnl2cnav6bhwi0wmao">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=szwvnocsnl2cnav6bhwi0wmao&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=sandunjayawardhana" alt="Layout with last medium posts"  />
+</div>
 
 ###
