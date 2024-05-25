@@ -17,9 +17,7 @@
 </div>
 
 ###
-<div align="center">
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandunjay" alt="sandunjay" /></a> </p>
-</div>
 
 ###
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
