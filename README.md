@@ -19,7 +19,7 @@
 
 
 ###
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://i.imgflip.com/4vsbd5.mp4)"  />
+<img align="right" height="150" src="https://i.imgflip.com/4vsbd5.mp4"  />
 
 ###
 
