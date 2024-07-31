@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandun Jayawardhana</h1>
 <h3 align="center">A passionate frontend and backend developer</h3>
 
-
-<style>
-  body {
-    background-image: url('[https://your-image-url.jpg](https://images7.alphacoders.com/736/thumb-1920-736462.png)');
-    background-size: cover;
-  }
-</style>
 ###
 
 <div align="center">
@@ -26,7 +19,7 @@
 
 
 ###
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://i.imgflip.com/4vsbd5.mp4)"  />
 
 ###
 
