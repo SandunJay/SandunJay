@@ -19,7 +19,9 @@
 
 
 ###
+<!-
 <img align="right" height="150" src="https://media1.tenor.com/m/o-wNCEq_6f0AAAAC/pompo-the-cinephile-typing-fast.gif"  />
+->
 
 ###
 
