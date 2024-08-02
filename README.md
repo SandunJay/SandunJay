@@ -18,7 +18,6 @@
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandunjay&no-frame=true" alt="sandunjay" /></a> </p>
 
 
-###
 <img align="right" height="150" src="https://media1.tenor.com/m/o-wNCEq_6f0AAAAC/pompo-the-cinephile-typing-fast.gif"  />
 ###
 
