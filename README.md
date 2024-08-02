@@ -17,8 +17,8 @@
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandunjay&no-frame=true" alt="sandunjay" /></a> </p>
 
-
-<img align="right" height="150" src="https://media1.tenor.com/m/o-wNCEq_6f0AAAAC/pompo-the-cinephile-typing-fast.gif"  />
+###
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -142,7 +142,6 @@
 
 ###
 <div align="center">
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=szwvnocsnl2cnav6bhwi0wmao&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=szwvnocsnl2cnav6bhwi0wmao&redirect=true)
