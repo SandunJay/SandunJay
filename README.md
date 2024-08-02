@@ -142,6 +142,7 @@
 
 ###
 <div align="center">
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=szwvnocsnl2cnav6bhwi0wmao&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=szwvnocsnl2cnav6bhwi0wmao&redirect=true)
