@@ -18,7 +18,7 @@
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandunjay&no-frame=true" alt="sandunjay" /></a> </p>
 
 ###
-<img align="right" height="150" src="https://media1.tenor.com/m/6zIkYptFDgEAAAAC/dangle-aesthetic.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
