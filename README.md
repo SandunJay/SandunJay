@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandun Jayawardhana</h1>
-<h3 align="center">A passionate frontend and backend developer</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 ###
 
@@ -150,6 +150,8 @@
 <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=szwvnocsnl2cnav6bhwi0wmao&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=szwvnocsnl2cnav6bhwi0wmao&redirect=true)
 -->
+<!-- <img align="right" height="150" src="https://media1.tenor.com/m/o-wNCEq_6f0AAAAC/pompo-the-cinephile-typing-fast.gif"  /> -->
+
 <img align="right" height="150" src="https://media1.tenor.com/m/o-wNCEq_6f0AAAAC/pompo-the-cinephile-typing-fast.gif"  />
 
 </div>
